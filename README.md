@@ -4,24 +4,24 @@ DiscordBot-NewsScraper is a simple Discord bot project designed to demonstrate t
 This bot allows users to fetch the latest news from specific websites using Discord commands, with an optional capability to route scraping traffic through Burp Suite for analysis purposes.
 
 Key Features
-Functional Discord Bot: Responds to basic commands such as !hello and !berak (as examples).
-Asynchronous Web Scraping: Utilizes aiohttp to perform efficient HTTP requests to target websites.
-HTML Parsing with Beautiful Soup: Extracts news headlines and links from the fetched HTML content.
-Burp Suite Integration (Optional): Scraping traffic can be routed through a Burp Suite proxy, allowing HTTP request/response analysis for learning and debugging purposes.
-Modular Code Structure: The project is divided into multiple files (main.py, events.py, commands.py, scraper.py, config.py) for better management and scalability.
+- Functional Discord Bot: Responds to basic commands such as !hello and !berak (as examples).
+- Asynchronous Web Scraping: Utilizes aiohttp to perform efficient HTTP requests to target websites.
+- HTML Parsing with Beautiful Soup: Extracts news headlines and links from the fetched HTML content.
+- Burp Suite Integration (Optional): Scraping traffic can be routed through a Burp Suite proxy, allowing HTTP request/response analysis for learning and debugging purposes.
+- Modular Code Structure: The project is divided into multiple files (main.py, events.py, commands.py, scraper.py, config.py) for better management and scalability.
 
 Project Learning Goals
 This project is ideal for those who want to learn and directly observe how the following technologies interact:
-discord.py: Building and managing a Discord bot, handling events, and creating commands.
-aiohttp: Performing asynchronous HTTP requests.
-Beautiful Soup: Scraping and parsing data from HTML content.
-Burp Suite: Understanding HTTP proxy concepts and analyzing web traffic.
+- discord.py: Building and managing a Discord bot, handling events, and creating commands.
+- aiohttp: Performing asynchronous HTTP requests.
+- Beautiful Soup: Scraping and parsing data from HTML content.
+- Burp Suite: Understanding HTTP proxy concepts and analyzing web traffic.
 
 Requirements
-Python 3.10+
-Your Discord Bot Token (from the Discord Developer Portal)
-Internet access
-(Optional) Burp Suite Community Edition installed
+- Python 3.10+
+- Your Discord Bot Token (from the Discord Developer Portal)
+- Internet access
+- (Optional) Burp Suite Community Edition installed
 
 
 
