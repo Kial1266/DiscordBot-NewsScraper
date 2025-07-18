@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b06e203-bda3-4e6d-b04c-d4eed7e46109" name="Changes" comment="BotScrapperFolder" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Daydayday/Day5" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2yqJUUgoJI5LkulBkfQVZ7F4vC2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Car.executor": "Run",
+    "Python.DataStruct.executor": "Run",
+    "Python.Scp.executor": "Run",
+    "Python.class.executor": "Run",
+    "Python.comands.executor": "Run",
+    "Python.comple.executor": "Run",
+    "Python.dicito.executor": "Run",
+    "Python.fung.executor": "Run",
+    "Python.hero.executor": "Run",
+    "Python.list.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.nestedif.executor": "Run",
+    "Python.scraper.executor": "Run",
+    "Python.tupl.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/loma/PycharmProjects/Daydayday/Day4",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\loma\PycharmProjects\Daydayday\Day4" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\loma\PycharmProjects\Daydayday\Day5\bot" />
+      <recent name="C:\Users\loma\PycharmProjects\Daydayday\day1" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-PY-251.26094.141" />
+        <option value="bundled-python-sdk-9f8e2b94138c-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26094.141" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b06e203-bda3-4e6d-b04c-d4eed7e46109" name="Changes" comment="" />
+      <created>1750556186484</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750556186484</updated>
+      <workItem from="1750819830601" duration="5645000" />
+      <workItem from="1751016942373" duration="431000" />
+      <workItem from="1751018694628" duration="87000" />
+      <workItem from="1751018789778" duration="484000" />
+      <workItem from="1751019292420" duration="231000" />
+      <workItem from="1751461864956" duration="21000" />
+      <workItem from="1752554337922" duration="533000" />
+      <workItem from="1752662052678" duration="811000" />
+      <workItem from="1752733765726" duration="4522000" />
+      <workItem from="1752750484063" duration="4682000" />
+      <workItem from="1752755387898" duration="352000" />
+      <workItem from="1752798660161" duration="594000" />
+    </task>
+    <task id="LOCAL-00001" summary="BotScrapperFolder">
+      <option name="closed" value="true" />
+      <created>1752799028232</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752799028233</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="BotScrapperFolder" />
+    <option name="LAST_COMMIT_MESSAGE" value="BotScrapperFolder" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonProject1$class.coverage" NAME="class Coverage Results" MODIFIED="1750826982793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Daydayday/day3" />
+    <SUITE FILE_PATH="coverage/PythonProject1$Scp.coverage" NAME="Scp Coverage Results" MODIFIED="1752736008950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Daydayday/Day5" />
+    <SUITE FILE_PATH="coverage/PythonProject1$scraper.coverage" NAME="scraper Coverage Results" MODIFIED="1752755104636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Daydayday/Day5/bot" />
+    <SUITE FILE_PATH="coverage/PythonProject1$comands.coverage" NAME="comands Coverage Results" MODIFIED="1752752395701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Daydayday/Day5/bot" />
+    <SUITE FILE_PATH="coverage/PythonProject1$hero.coverage" NAME="hero Coverage Results" MODIFIED="1751019274259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Daydayday/Day4" />
+    <SUITE FILE_PATH="coverage/PythonProject1$Car.coverage" NAME="Car Coverage Results" MODIFIED="1751019440444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Daydayday/Day4" />
+    <SUITE FILE_PATH="coverage/PythonProject1$main.coverage" NAME="main Coverage Results" MODIFIED="1752755639842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Daydayday/Day5/bot" />
+  </component>
+</project>
