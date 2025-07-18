@@ -1,0 +1,11 @@
+
+DISCORD_BOT_TOKEN = ('MTM5NTM1OTU3MDkzODgyNjc5Mg.G7JGOH.w5Is9eA4mrpAiBmw8Pti-pf5XmaLNOPFEvg2vg')
+
+BOT_PREFIX = '$'
+
+
+NEWS_URL = 'https://www.detik.com/'
+
+USE_BURP_PROXY = False
+BURP_PROXY_HOST = '127.0.0.1'
+BURP_PROXY_PORT = 8080
