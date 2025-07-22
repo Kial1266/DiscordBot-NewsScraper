@@ -4,19 +4,7 @@ from bs4 import BeautifulSoup
 
 
 async def scrape_news(url: str, use_proxy: bool, proxy_host: str, proxy_port: int) -> list:
-    """
-    Melakukan scraping berita dari URL yang diberikan.
-    Menggunakan aiohttp untuk request dan BeautifulSoup untuk parsing.
 
-    Args:
-        url (str): "https://www.detik.com/"
-        use_proxy (bool): false
-        proxy_host (str):  '127.0.0.1'
-        proxy_port (int):8080
-
-    Returns:
-        list: Daftar dictionary, setiap dictionary berisi 'title' dan 'link' berita.
-    """
     news_items = []
     proxy_url = f"http://{proxy_host}:{proxy_port}" if use_proxy else None
 
@@ -24,7 +12,7 @@ async def scrape_news(url: str, use_proxy: bool, proxy_host: str, proxy_port: in
     try:
         async with aiohttp.ClientSession() as session:
             async with session.get(url, proxy=proxy_url) as response:
-                response.raise_for_status() # Akan raise HTTPError untuk status kode 4xx/5xx
+                response.raise_for_status() 
                 html_content = await response.text()
 
         soup = BeautifulSoup(html_content, 'html.parser')
