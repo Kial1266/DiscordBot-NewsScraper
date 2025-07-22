@@ -30,12 +30,11 @@ def setup_Comands(bot):
             BURP_PROXY_PORT
         )
 
-        # Corrected indentation here
         if news:
             message = "**BERITA:**\n"
             for item in news:
                 message += f"• **{item['title']}**\n"
-                message += f"  <{item['link']}>\n" # Menggunakan <...> untuk menghindari embed besar
+                message += f"  <{item['link']}>\n"
             await ctx.send(message)
         else:
             await ctx.send("Maaf, tidak dapat mengambil berita terkini saat ini. Mungkin ada masalah dengan situs web atau koneksi.")
