@@ -2,12 +2,10 @@
 import aiohttp
 from bs4 import BeautifulSoup
 
-
 async def scrape_news(url: str, use_proxy: bool, proxy_host: str, proxy_port: int) -> list:
 
     news_items = []
     proxy_url = f"http://{proxy_host}:{proxy_port}" if use_proxy else None
-
 
     try:
         async with aiohttp.ClientSession() as session:
@@ -16,8 +14,6 @@ async def scrape_news(url: str, use_proxy: bool, proxy_host: str, proxy_port: in
                 html_content = await response.text()
 
         soup = BeautifulSoup(html_content, 'html.parser')
-
-
 
         for headline in soup.find_all('article'):
             title_tag = headline.find(['h2', 'h3', 'a'], class_=['title', 'media__title', 'item-title'])
