@@ -5,7 +5,7 @@ from BotEvents import setup_events
 from comands import setup_Comands
 
 def main():
-    """Fungsi utama"""
+    """Main Features"""
     intents = discord.Intents.default()
     intents.message_content = True
 
